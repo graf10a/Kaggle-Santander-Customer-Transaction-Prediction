@@ -4,7 +4,7 @@
 
 *Language:* Python
 
-The competition is still on-going. As soon as I have something to share (script or Jupyter notebook file), it will be added to this repository. Currently, the repository contains the following files:
+The competition is still on-going. As soon as I have something to share, a script or a Jupyter notebook file, it will be added to this repository. Currently, the repository contains the following files:
 
 1. README.md -- this file.
 2. Santander_EDA_Simple_Modeling.ipynb -- a Jupyter notebook containing exploratory data analysis of the data and some baseline modeling. The list of models: 
