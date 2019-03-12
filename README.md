@@ -22,4 +22,5 @@ The competition is still on-going. As soon as I have something to share, a scrip
       * Separates the *target* and *ID_code* columns from the training and testing data.
       * Serializes the data saving them into the feather file format. Reading feather files from the disk happens much faster than reading CSV files, so we can use the output of this script every time when we need to read the data instead of reading the CSV's.
       * For convenience, the column names of test and train are saved as pickle files.
-
+      
+5. Eli5.ipynb -- a Jupyter notebook computing ELI5 weights for LightGBM model trained on the competition data. The notebook is [publically available](https://www.kaggle.com/graf10a/santander-eli5-weights-for-lightgbm) on the Kaggle website. The Kaggle version is a bit better because it shows the color coding for the weights (green: helpful, white: neutral, red: detrimental).
