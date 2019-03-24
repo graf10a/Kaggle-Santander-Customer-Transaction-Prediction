@@ -24,3 +24,7 @@ The competition is still on-going. As soon as I have something to share, a scrip
       * For convenience, the column names of test and train are saved as pickle files.
       
 5. Eli5.ipynb -- a Jupyter notebook computing ELI5 weights for LightGBM model trained on the competition data. The notebook is [publically available](https://www.kaggle.com/graf10a/santander-eli5-weights-for-lightgbm) on the Kaggle website. The Kaggle version is a bit better because it shows the color coding for the weights (green: helpful, white: neutral, red: detrimental).
+
+6. umap.png -- the UMAP image of the raw data.
+
+7. T_SNE.png -- the T-SNE image of the raw data.
