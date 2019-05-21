@@ -8,7 +8,7 @@ Currently, the repository contains the following files:
 
 1. README.md -- this file.
 
-2. Santander_EDA_1_Simple_Modeling.ipynb -- a Jupyter notebook containing introductory exploratory data analysis of the data and some baseline modeling. The list of models: 
+2. Santander_EDA_1_Simple_Modeling.ipynb -- a Jupyter notebook containing introductory level exploratory data analysis of the data and some baseline modeling. The list of models: 
     * Logistic Regession 
     * Elastic Net 
     * Gaussian Naive Bayes
