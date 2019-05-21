@@ -4,7 +4,7 @@
 
 *Language:* Python
 
-The competition is still on-going. As soon as I have something to share, a script or a Jupyter notebook file, it will be added to this repository. Currently, the repository contains the following files:
+Currently, the repository contains the following files:
 
 1. README.md -- this file.
 
