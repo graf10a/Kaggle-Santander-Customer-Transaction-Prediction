@@ -8,12 +8,13 @@ Currently, the repository contains the following files:
 
 1. README.md -- this file.
 
-2. Santander_EDA_1_Simple_Modeling.ipynb -- a Jupyter notebook containing introductory level exploratory data analysis of the data and some baseline modeling. The list of models: 
+2. Santander_EDA_1_Simple_Modeling.ipynb -- a Jupyter notebook containing introductory level exploratory data analysis of the data and some baseline modeling. The list of considered models: 
     * Logistic Regession 
     * Elastic Net 
     * Gaussian Naive Bayes
     * Linear Discriminant Analysis (LDA)
     * Quandratic Discriminant Analysis (QDA).
+    
 Please note that **the table of content links do not work on Github**  -- you need to download the notebook and view it locally to be able to use the links.
 
 3. logistic-regression-with-new-features-feather.ipynb -- a Jupyter notebook introducing some additional numerical feature variables with Logistic Regression model. The notebook also illustrates the usage of the `feather` file format for saving and loading data. The notebook is [publically available](https://www.kaggle.com/graf10a/logistic-regression-with-new-features-feather) on the Kaggle website.
